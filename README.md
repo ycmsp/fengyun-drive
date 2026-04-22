@@ -11,4 +11,9 @@
 多行CDN支持
 
 QQ: 137879654
-EMAIL: 137879654@qq.com
+电子邮件: 137879654@qq.com
+
+install: 
+1:upload files to web root dir
+2:important sql
+3:config mysql account

@@ -1,11 +1,14 @@
-demo: https://pan4.jiasu7.top
+演示: https://pan4.jiasu7.top
 
-Developed with PHP + MySQL
-Multi-user support
-Multilingual support
-External link sharing, direct link sharing, and time-limited access
-Offline download support
-Online video playback, online archive extraction, common file preview, and Office online editing & viewing
-Directory-based navigation & switching
-File transfer & saving support
-Multi-line CDN support
+使用PHP + MySQL开发
+多用户支持
+多语言支持
+外部链接分享、直接链接分享和限时访问
+离线下载支持
+在线视频播放、在线档案提取、常见文件预览和Office在线编辑和查看
+目录导航和切换
+文件传输和保存支持
+多行CDN支持
+
+QQ: 137879654
+EMAIL: 137879654@qq.com

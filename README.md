@@ -36,9 +36,11 @@ QQ: 137879654
 
 9:集成几十万影视资源在线播放下载,TV直播
 
-10:VIP
+10:支持多种目录化浏览
 
-11:客户端:Windows,安卓,iOS,linux正在推出
+11:VIP
 
-管理员端,自行看图,支持插件
+12:客户端:Windows,安卓,iOS,linux
+
+管理员端后台功能齐全,自行看图,支持插件
 <img width="1903" height="1066" alt="image" src="https://github.com/user-attachments/assets/3699336c-7031-4239-a5dd-6b5264360ef4" />
